@@ -1,4 +1,4 @@
-package com.juzi.leetcode;
+package com.juzi.leetcode.medium;
 
 /**
  * <p>LeetCode142</p>
