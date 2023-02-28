@@ -41,7 +41,7 @@ src
 
 ## Local Branch
 
-![截屏2023-02-28 21.40.22](/Users/codejuzi/Documents/AlDaily/LeetCodeImpl/assets/截屏2023-02-28 21.40.22.png)
+![截屏2023-02-28 21.40.22](./assets/截屏2023-02-28 21.40.22.png)
 
 - `dev` => 日常刷题分支
 - `master` => 最终代码分支
