@@ -21,9 +21,9 @@ src
         └── com
             └── juzi
                 └── leetcode
- 										├── easy
-                    ├── hard
-                    └── medium
+                    ├── easy
+                    ├── hard
+                    └── medium
 ```
 
 `pom.xml`中引入**Junit**用于简单测试
@@ -41,7 +41,7 @@ src
 
 ## Local Branch
 
-![截屏2023-02-28 21.40.22](./assets/截屏2023-02-28 21.40.22.png)
+![pro-branches](https://raw.githubusercontent.com/dingxinliang88/figure/master/img/pro-branch.png)
 
 - `dev` => 日常刷题分支
 - `master` => 最终代码分支
